@@ -1,0 +1,15 @@
+{
+  "name": "result-utils",
+  "version": "0.1.0",
+  "sources": {
+      "dir": ".",
+      "files" : ["ResultUtils.re"]
+  },
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": [
+   ]
+}
